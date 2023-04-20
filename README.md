@@ -2,7 +2,7 @@
 
 A set of extensive prompts to create personas of teachers from lots of subjects from a conversational Large-Language-Model like ChatGPT
 
-You can ses my main GPT project FriendGPT <a href=“https://github.com/LouCodingStuff/FriendGPT.”>Here.</a>
+You can ses my main GPT project, FriendGPT [Here] (https://github.com/LouCodingStuff/FriendGPT)
 
 ## Features
 
